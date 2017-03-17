@@ -1,0 +1,4 @@
+CREATE EXTENSION btree_gist;
+CREATE EXTENSION pgcrypto;
+CREATE EXTENSION postgis;
+CREATE EXTENSION postgis_topology;
